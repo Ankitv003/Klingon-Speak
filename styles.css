@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=Orbitron&display=swap');
+
+
+:root{
+    --primary-color: #5CDB95;
+    --dark-blue: #05386B;
+}
+
+
+body{
+    font-family: 'Henny Penny', cursive;
+    font-family: 'Orbitron', sans-serif;
+    background-color: var(--primary-color);
+}
+
+.heading1{
+    color: var(--dark-blue) ;
+    text-align: center;
+}
+.div1{
+    text-align: center;
+}
+
+textarea {
+    width: 40%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    margin: auto;
+
+}
+/*images*/
+
+.klingon{
+        max-width: 500px;
+        margin: auto;
+        float: left;
+}
+
+.live-long{
+    max-width: 500px;
+    margin: auto;
+    padding-left:800px;
+    float: right ;
+}
+
+
+.div-button{
+   text-align: center;
+}
+.div2{
+ text-align: center;
+}
